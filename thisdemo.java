@@ -1,3 +1,3 @@
  class thisdemo{
-   private int empid=120;
+   private int empid=20;
    
